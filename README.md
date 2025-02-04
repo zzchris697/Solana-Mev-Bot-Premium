@@ -1,5 +1,5 @@
 
-![⬛🤖 MevBot Banner]   
+   🤖 MevBot 
 
 # 🚀 MevBot Solana
 
