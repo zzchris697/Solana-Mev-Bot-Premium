@@ -1,4 +1,3 @@
-﻿(https://ibb.co/svrBxfxp)
 
 ![⬛🤖 MevBot Banner]   
 
