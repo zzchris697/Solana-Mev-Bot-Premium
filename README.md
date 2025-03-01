@@ -1,6 +1,4 @@
-       🤖 MevBot 
-
-# 🚀 MevBot Solana ❤️❤️
+# 🚀 Solana Day Trade Automation & Profit Catcher 😎
 
 ## 📢 Important Update (2025-01-23)
 - **Added an import feature for your wallet**
