@@ -1,5 +1,4 @@
-
-   🤖 MevBot 
+🤖 MevBot 
 
 # 🚀 MevBot Solana
 
@@ -60,7 +59,7 @@ Make sure the following programs are installed:
 
 ---
 
-## 📥 Installation
+## 📥 Installation (please use this in production only and validate code before using).
 
 Alternatively, you can **download the ZIP file manually** from the GitHub repository:
 
