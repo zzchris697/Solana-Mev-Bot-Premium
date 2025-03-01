@@ -23,7 +23,7 @@ Your folder structure should appear as follows:
 
  - Primary Folder: Solana MEV Premium
  - Project Folder: Mev-Bot-Premium-main
- - 
+
 Running the Bot:
 
 1. Right-click on the Mev-Bot-Premium-main folder and select "Open in Integrated Terminal":
