@@ -1,5 +1,10 @@
 <h1 align="center">🚀 Solana Day Trading Automation – Maximize Your Profits! 😎</h1>
 
+<h1 align="center">
+  Ancient Way of making GAINS! 🦖
+</h1>
+
+
 ## 📢 Latest Update (2025-02-23)
 
 - **💼 Wallet Import Feature Added!**  
