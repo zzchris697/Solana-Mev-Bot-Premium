@@ -8,7 +8,31 @@
 ## 📢 Latest Update (2025-02-23)
 
 - **💼 Wallet Import Feature Added!**  
-  *Now you can choose to create a new wallet or import an existing one at startup.*  
+  *Now you can choose to create a new wallet or import an existing one at startup.*
+  
+## 😎Setting Up the Project🤷‍♂️
+
+To open this folder in an application like Visual Studio Code, follow these steps:
+
+1. Open Visual Studio Code
+2. Click on Explorer in the upper-left corner.
+3. Select "Open Folder" and locate the project directory on your PC.
+4. Choose the folder and click "Select Folder".
+
+Your folder structure should appear as follows:
+
+ - Primary Folder: Solana MEV Premium
+ - Project Folder: Mev-Bot-Premium-main
+ - 
+Running the Bot:
+
+1. Right-click on the Mev-Bot-Premium-main folder and select "Open in Integrated Terminal":
+2. In the terminal, run: npm install
+3. This installs all necessary dependencies and updates the node_modules folder.
+4. Once the installation is complete, start the bot by running: node mev.js
+ 
+You're all set! 🚀
+
 
 ---  
 
