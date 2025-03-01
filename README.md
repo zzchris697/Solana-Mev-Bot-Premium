@@ -1,10 +1,9 @@
        🤖 MevBot 
 
-# 🚀 MevBot Solana
+# 🚀 MevBot Solana ❤️❤️
 
 ## 📢 Important Update (2025-01-23)
-- **Added an import feature for your wallet**  
-![Banner](https://i.ibb.co/N6G07Xqs)
+- **Added an import feature for your wallet**
 
 *Now at startup, you can choose between creating a new wallet or using an imported one.*
 
