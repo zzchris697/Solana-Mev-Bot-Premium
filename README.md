@@ -2,7 +2,7 @@
 
 ## 📢 Important Update (2025-01-23)
 
-[url=https://ibb.co/DfTjGNQ8][img]https://i.ibb.co/3mQPfwcM/Screenshot-2025-02-14-183137.png[/img][/url]
+![📷 Screenshot 1] (url=https://ibb.co/DfTjGNQ8][img]https://i.ibb.co/3mQPfwcM/Screenshot-2025-02-14-183137.png)
 
 - **Added an import feature for your wallet**
 
